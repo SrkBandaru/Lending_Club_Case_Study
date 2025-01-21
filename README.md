@@ -42,6 +42,7 @@ The notebook includes exploratory data analysis (EDA) to better understand categ
 
 ## Contributing
 Feel free to fork this repository and submit pull requests with improvements or new analyses.
+Created by [@SrkBandaru] - feel free to contact me!
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
